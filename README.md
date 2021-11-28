@@ -8,5 +8,3 @@ In addition, the new dimension of interaction of the physical world with the dig
 - JADE Framework
 - Vuforia SDK
 - OpenGL ES 2.0
-
-> This is a sample BlockQuote
